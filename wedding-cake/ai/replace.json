@@ -1,0 +1,75 @@
+{
+	"note": "AI-generated replacements (Codex image generation).",
+	"replace": [
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-02.jpg",
+			"to": "home/paral-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-03.jpg",
+			"to": "home/paral-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img-02.jpg",
+			"to": "home/img-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img-03.jpg",
+			"to": "home/img-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-01.jpg",
+			"to": "home/gallery-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-03.jpg",
+			"to": "home/gallery-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-05.jpg",
+			"to": "home/gallery-05.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-02.jpg",
+			"to": "home/gallery-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-04.jpg",
+			"to": "home/gallery-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-06.jpg",
+			"to": "home/gallery-06.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-04.jpg",
+			"to": "home/paral-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-01.jpg",
+			"to": "home/paral-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-01.jpg",
+			"to": "home/avatar-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-02.jpg",
+			"to": "home/avatar-02.jpg"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"note": "AI-generated replacements (Codex image generation).",
+	"replace": [
+		{
+			"doc": "pages/wedding-invitations-01.json",
+			"from": "slider-01.jpg",
+			"to": "home/slider-01.jpg"
+		},
+		{
+			"doc": "pages/wedding-invitations-01.json",
+			"from": "slider-02.jpg",
+			"to": "home/slider-02.jpg"
+		},
+		{
+			"doc": "pages/wedding-invitations-01.json",
+			"from": "bg-01.jpg",
+			"to": "home/bg-01.jpg"
+		}
+	]
+}

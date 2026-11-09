@@ -1,0 +1,130 @@
+{
+	"note": "AI-generated replacements (Codex image generation).",
+	"replace": [
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-slide-02.jpg",
+			"to": "home/ndimg-slide-02.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-bgclear-01.jpg",
+			"to": "home/ndimg-bgclear-01.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-01.jpg",
+			"to": "home/ndimg-parallax-01.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-02.jpg",
+			"to": "home/ndimg-parallax-02.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-01.jpg",
+			"to": "home/ndimg-square-01.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-02.jpg",
+			"to": "home/ndimg-square-02.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-03.jpg",
+			"to": "home/ndimg-square-03.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-04.jpg",
+			"to": "home/ndimg-square-04.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-03.jpg",
+			"to": "home/ndimg-parallax-03.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-04.jpg",
+			"to": "home/ndimg-parallax-04.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-bgclear-02.jpg",
+			"to": "home/ndimg-bgclear-02.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-05.jpg",
+			"to": "home/ndimg-square-05.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-06.jpg",
+			"to": "home/ndimg-square-06.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-07.jpg",
+			"to": "home/ndimg-square-07.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-08.jpg",
+			"to": "home/ndimg-square-08.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-square-09.jpg",
+			"to": "home/ndimg-square-09.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-05.jpg",
+			"to": "home/ndimg-parallax-05.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-bgclear-03.jpg",
+			"to": "home/ndimg-bgclear-03.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-vertical-01.jpg",
+			"to": "home/ndimg-vertical-01.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-vertical-02.jpg",
+			"to": "home/ndimg-vertical-02.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-06.jpg",
+			"to": "home/ndimg-parallax-06.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-bgclear-04.jpg",
+			"to": "home/ndimg-bgclear-04.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-07.jpg",
+			"to": "home/ndimg-parallax-07.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-08.jpg",
+			"to": "home/ndimg-parallax-08.jpg"
+		},
+		{
+			"doc": "pages/home-03.json",
+			"from": "ndimg-parallax-09.jpg",
+			"to": "home/ndimg-parallax-09.jpg"
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"note": "AI-generated replacements (Codex image generation). Applied by tools/design/wedding-day.js after conversion.",
+	"replace": [
+		{
+			"doc": "pages/home-1.json",
+			"widget": "slides",
+			"from": "c-paral-01.jpg",
+			"to": "hero-1.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"widget": "slides",
+			"from": "c-paral-14.jpg",
+			"to": "hero-2.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "bg-watercolor.jpg",
+			"to": "home/bg-watercolor.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-02.jpg",
+			"to": "home/c-paral-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "bg-watercolor-02.jpg",
+			"to": "home/bg-watercolor-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-06.jpg",
+			"to": "home/c-paral-06.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-09.jpg",
+			"to": "home/c-paral-09.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "bg-watercolor-03.jpg",
+			"to": "home/bg-watercolor-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-12.jpg",
+			"to": "home/c-paral-12.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-13.jpg",
+			"to": "home/c-paral-13.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-01.jpg",
+			"to": "home/c-gallery-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-04.jpg",
+			"to": "home/c-gallery-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-02.jpg",
+			"to": "home/c-gallery-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-08.jpg",
+			"to": "home/c-gallery-08.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-09.jpg",
+			"to": "home/c-gallery-09.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-10.jpg",
+			"to": "home/c-gallery-10.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-03.jpg",
+			"to": "home/c-gallery-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-gallery-07.jpg",
+			"to": "home/c-gallery-07.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-07.jpg",
+			"to": "home/c-paral-07.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-08.jpg",
+			"to": "home/c-paral-08.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-01.jpg",
+			"to": "home/avatar-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-02.jpg",
+			"to": "home/avatar-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-04.jpg",
+			"to": "home/c-paral-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "c-paral-03.jpg",
+			"to": "home/c-paral-03.jpg"
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+	"note": "AI-generated replacements (Codex image generation).",
+	"replace": [
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-02.jpg",
+			"to": "home/gallery-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-03.jpg",
+			"to": "home/gallery-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-08.jpg",
+			"to": "home/gallery-08.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-09.jpg",
+			"to": "home/gallery-09.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-01.jpg",
+			"to": "home/gallery-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-12.jpg",
+			"to": "home/gallery-12.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-10.jpg",
+			"to": "home/gallery-10.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-11.jpg",
+			"to": "home/gallery-11.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-04.jpg",
+			"to": "home/gallery-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-05.jpg",
+			"to": "home/gallery-05.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-06.jpg",
+			"to": "home/gallery-06.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-07.jpg",
+			"to": "home/gallery-07.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-13.jpg",
+			"to": "home/gallery-13.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-15.jpg",
+			"to": "home/gallery-15.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-17.jpg",
+			"to": "home/gallery-17.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-18.jpg",
+			"to": "home/gallery-18.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-19.jpg",
+			"to": "home/gallery-19.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-21.jpg",
+			"to": "home/gallery-21.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-20.jpg",
+			"to": "home/gallery-20.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-22.jpg",
+			"to": "home/gallery-22.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-23.jpg",
+			"to": "home/gallery-23.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-25.jpg",
+			"to": "home/gallery-25.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-24.jpg",
+			"to": "home/gallery-24.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-14.jpg",
+			"to": "home/gallery-14.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-26.jpg",
+			"to": "home/gallery-26.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-27.jpg",
+			"to": "home/gallery-27.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-02.jpg",
+			"to": "home/paral-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-03.jpg",
+			"to": "home/paral-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-01.jpg",
+			"to": "home/paral-01.jpg"
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"note": "AI-generated replacements (Codex image generation).",
+	"replace": [
+		{
+			"doc": "pages/home-1.json",
+			"from": "slide-01.jpg",
+			"to": "home/slide-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "slide-04.jpg",
+			"to": "home/slide-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "slide-02.jpg",
+			"to": "home/slide-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "slide-03.jpg",
+			"to": "home/slide-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-02.jpg",
+			"to": "home/avatar-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "paral-01.jpg",
+			"to": "home/paral-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-01.jpg",
+			"to": "home/avatar-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-03.jpg",
+			"to": "home/avatar-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar-04.jpg",
+			"to": "home/avatar-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "image-01.jpg",
+			"to": "home/image-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "image-02.jpg",
+			"to": "home/image-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "image-03.jpg",
+			"to": "home/image-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "icon-01.jpg",
+			"to": "home/icon-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "icon-03.jpg",
+			"to": "home/icon-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "icon-02.jpg",
+			"to": "home/icon-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-01.jpg",
+			"to": "home/gallery-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-02.jpg",
+			"to": "home/gallery-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-06.jpg",
+			"to": "home/gallery-06.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-04.jpg",
+			"to": "home/gallery-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "gallery-07.jpg",
+			"to": "home/gallery-07.jpg"
+		}
+	]
+}

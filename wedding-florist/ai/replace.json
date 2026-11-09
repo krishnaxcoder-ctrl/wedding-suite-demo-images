@@ -1,0 +1,110 @@
+{
+	"note": "AI-generated replacements (Codex image generation).",
+	"replace": [
+		{
+			"doc": "pages/home-1.json",
+			"from": "parallax-02.jpg",
+			"to": "home/parallax-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "parallax-03.jpg",
+			"to": "home/parallax-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "icons-01.jpg",
+			"to": "home/icons-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "icons-03.jpg",
+			"to": "home/icons-03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "icons-02.jpg",
+			"to": "home/icons-02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img01.jpg",
+			"to": "home/img01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img02.jpg",
+			"to": "home/img02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img03.jpg",
+			"to": "home/img03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img04.jpg",
+			"to": "home/img04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "parallax-01.jpg",
+			"to": "home/parallax-01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar01.jpg",
+			"to": "home/avatar01.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar02.jpg",
+			"to": "home/avatar02.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "avatar03.jpg",
+			"to": "home/avatar03.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "parallax-04.jpg",
+			"to": "home/parallax-04.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img05.jpg",
+			"to": "home/img05.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "parallax-05.jpg",
+			"to": "home/parallax-05.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img06.jpg",
+			"to": "home/img06.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img07.jpg",
+			"to": "home/img07.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img08.jpg",
+			"to": "home/img08.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "img09.jpg",
+			"to": "home/img09.jpg"
+		},
+		{
+			"doc": "pages/home-1.json",
+			"from": "parallax-06.jpg",
+			"to": "home/parallax-06.jpg"
+		}
+	]
+}
